@@ -1,24 +1,39 @@
 <div align="center">
 
-# ATHARV JADHAV
+# 🚀 Atharv Jadhav
 
-### Data Analytics • Database Engineering • Python Development
+### Data Analytics & Database Engineer
 
-<p>
-Transforming Complex Data into Actionable Insights
+**Transforming Complex Data into Actionable Insights**
+**Building Scalable Database Solutions**
+**Python Developer | SQL Enthusiast | Aspiring Data Analyst**
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharv-jadhav-9a4989280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:jadhavathar156@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://github.com/jadhavatharv156-hub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-4CAF50?style=for-the-badge">
+  </a>
 </p>
 
-<p>
-Building Scalable Database Solutions
-</p>
+<br>
 
-<p>
-Python Developer | SQL Specialist | Data Analytics Enthusiast
-</p>
-
-[LinkedIn] • [Email] • [GitHub] • [Portfolio]
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Python+Developer;SQL+Specialist;Database+Engineer;Continuous+Learner"/>
 
 </div>
+
 
 
 ---
