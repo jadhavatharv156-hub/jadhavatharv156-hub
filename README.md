@@ -1,9 +1,43 @@
-<h1 align="center">Hi 👋, I'm Atharv Jadhav</h1>
-<h3 align="center">B.Sc Computer Science Graduate | Aspiring Data Analyst | Python & MySQL Enthusiast</h3>
+<div align="center">
+
+# 🚀 ATHARV JADHAV
+
+### ⚡ Data Analytics • 🗄️ Database Engineering • 🐍 Python Development
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=📊+Transforming+Complex+Data+into+Insights;🗄️+Building+Scalable+Database+Solutions;🐍+Python+Developer+%7C+SQL+Specialist;🚀+Aspiring+Data+Analyst;💡+Continuous+Learner" />
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Python+Developer;MySQL+Learner;Power+BI+Explorer;Always+Learning+New+Things" />
+
+<a href="https://www.linkedin.com/in/atharv-jadhav-9a4989280/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge">
+</a>
+
+<a href="mailto:jadhavathar156@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge">
+</a>
+
+<a href="https://github.com/jadhavatharv156-hub">
+<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-success?style=for-the-badge">
+</a>
+
 </p>
+
+---
+
+### 📊 Transforming Complex Data into Actionable Insights
+
+### 🗄️ Building Scalable Database Solutions
+
+### 🚀 Turning Data into Decisions
+
+</div>
+
 
 ---
 
