@@ -1,96 +1,146 @@
 <h1 align="center">Hi 👋, I'm Atharv Jadhav</h1>
-<h3 align="center">Python Developer | Data Analyst | Flask Developer | Power BI Enthusiast</h3>
+<h3 align="center">B.Sc Computer Science Graduate | Aspiring Data Analyst | Python & MySQL Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Flask+Developer;Power+BI+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Python+Developer;MySQL+Learner;Power+BI+Explorer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working on Data Analytics Projects
-- 🌱 Learning Advanced Python & Machine Learning
-- 💻 Building Flask Applications
-- 📊 Passionate about Data Analysis and Visualization
-- 🎯 Goal: Become a Data Analyst / Python Developer
+🎓 Recent B.Sc Computer Science Graduate
+
+📊 Passionate about Data Analytics, Databases, and Business Insights
+
+🐍 Learning and building projects using Python and MySQL
+
+📈 Interested in Data Visualization and Analytical Problem Solving
+
+💡 Exploring Data Science and Real-world Data Projects
+
+🌱 Currently improving my skills in SQL, Python, Power BI, and Data Analytics
+
+📍 Maharashtra, India
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Career Objective
 
-<p align="left">
+I am an aspiring Data Analyst who enjoys working with data, solving problems, and extracting meaningful insights. My goal is to build impactful data-driven solutions and continuously improve my technical and analytical skills.
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
+
+### 🗄️ Database Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL Queries
+- Data Analytics
+- Power BI Dashboards
+- Python for Data Analysis
+- Pandas & NumPy
+- Data Visualization
+
+---
+
+## 💼 Projects
+
+### 📊 Customer Churn Analysis
+- recently working 
+- Analyzed customer churn data using Python and SQL.
+- Performed data cleaning and exploratory data analysis.
+- Generated insights to identify churn patterns.
+
+### 💰 BudgetIQ Expense Tracker
+- Developed using Flask and Python.
+- Tracks daily expenses and budgets.
+- Provides financial insights and reports.
+
+### 📈 Data Analytics Projects
+- SQL Query Analysis
+- Sales Dashboard
+- Data Cleaning Projects
+- Business Insights Reports
+
+---
+
+## 📅 My Learning Journey
+
+✅ Started with Computer Science Fundamentals
+
+✅ Learned  Python, HTML, CSS, and JavaScript
+
+✅ Developed interest in Databases and SQL
+
+✅ Explored Data Analytics and Visualization
+
+✅ Building real-world projects and improving daily
+
+🚀 Goal: Become a Data Analyst , database developer , sql developer and contribute to data-driven organizations.
+
+---
+
+## 🌟 Daily Goals
+
+📖 Learn something new every day
+
+💻 Practice SQL and Python regularly
+
+📊 Build data projects
+
+🧠 Improve problem-solving skills
+
+🚀 Contribute to open source projects
+
+---
+
+## 📫 Connect With Me
+
+<p>
 <a href="https://www.linkedin.com/in/atharv-jadhav-9a4989280/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jadhavatharv156@gmail.com">
+<a href="mailto:jadhavathar156@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 💬 Quote
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,flask,html,css,git,github,vscode" />
-
-</p>
-
-<p>
-
-📊 Power BI  
-📈 Excel  
-📉 Data Analytics  
-📋 SQL  
-
-</p>
+> "Data tells a story. I aim to discover it, analyze it, and create value from it."
 
 ---
 
-## 📊 GitHub Stats
+## 🙏 Thank You for Visiting
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+⭐ If you like my work, don't forget to star my repositories.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia)
-
----
-
-## 🚀 Featured Projects
-
-### 💰 BudgetIQ
-Flask + MySQL Personal Expense Tracker
-
-### 📊 Customer Churn Analysis
-Python + SQL + Power BI
-
-### 📈 Sales Dashboard
-Power BI + Excel
-
----
-
-## 🔥 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
-
----
-
-## 💡 Quote
-
-> "Keep Learning, Keep Building, Keep Growing."
-
----
+🚀 Let's learn, build, and grow together.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
