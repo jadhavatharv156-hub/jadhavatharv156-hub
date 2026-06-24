@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Jadhav</h1>
-<h3 align="center">B.Sc Computer Science Graduate | Aspiring Data Analyst | Python & MySQL Enthusiast</h3>
+<h3 align="center">B.Sc Computer Science Graduate |SQL Developer |Database Developer | Aspiring Data Analyst | Python & MySQL Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Python+Developer;MySQL+Learner;Power+BI+Explorer;Always+Learning+New+Things" />
