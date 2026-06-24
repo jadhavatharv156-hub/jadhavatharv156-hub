@@ -57,13 +57,9 @@ As a B.Sc Computer Science graduate, I specialize in **Data Analytics, SQL, Data
 📈 Continuously learning, building, and improving through real-world projects and analytical challenges.
 
 > "Turning Data into Decisions through Analytics, Technology, and Innovation."
-```
-
----
 
 
-
-🎯 Career Objective
+## 🎯 Career Objective
 ────────────────────────
 Become a Data Analyst and Database Professional.
 
@@ -80,7 +76,6 @@ Transform data into actionable insights.
 💡 Mission
 ────────────────────────
 Create value through data and technology.
----
 
 ## 🚀 Tech Stack
 
