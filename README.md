@@ -41,21 +41,24 @@
 
 ---
 
+```markdown
 ## 👨‍💻 About Me
 
-🎓 Recent B.Sc Computer Science Graduate
+Passionate about transforming data into meaningful insights and building efficient database solutions.
 
-📊 Passionate about Data Analytics, Databases, and Business Insights
+As a B.Sc Computer Science graduate, I specialize in **Data Analytics, SQL, Database Management, and Python Development**. I enjoy analyzing data, optimizing databases, and developing practical solutions that solve real-world problems.
 
-🐍 Learning and building projects using Python and MySQL
+🚀 Currently exploring:
+- Data Analytics
+- Database Engineering
+- Python Development
+- Business Intelligence
+- Data Visualization
 
-📈 Interested in Data Visualization and Analytical Problem Solving
+📈 Continuously learning, building, and improving through real-world projects and analytical challenges.
 
-💡 Exploring Data Science and Real-world Data Projects
-
-🌱 Currently improving my skills in SQL, Python, Power BI, and Data Analytics
-
-📍 Maharashtra, India
+> "Turning Data into Decisions through Analytics, Technology, and Innovation."
+```
 
 ---
 
