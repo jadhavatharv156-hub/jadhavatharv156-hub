@@ -60,12 +60,26 @@ As a B.Sc Computer Science graduate, I specialize in **Data Analytics, SQL, Data
 ```
 
 ---
-```markdown
-## 🎯 Career Objective
 
-Seeking an opportunity to apply my skills in Data Analytics, Database Management, and Python development to solve real-world business problems, create valuable insights from data, and continuously grow as a data professional.
-```
 
+
+🎯 Career Objective
+────────────────────────
+Become a Data Analyst and Database Professional.
+
+🚀 Vision
+────────────────────────
+Transform data into actionable insights.
+
+📈 Professional Goal
+────────────────────────
+✓ Master SQL and Python
+✓ Build real-world projects
+✓ Grow as a Data Analyst
+
+💡 Mission
+────────────────────────
+Create value through data and technology.
 ---
 
 ## 🚀 Tech Stack
