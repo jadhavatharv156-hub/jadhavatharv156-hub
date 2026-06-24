@@ -78,6 +78,33 @@ I am an aspiring Data Analyst who enjoys working with data, solving problems, an
 
 </div>
 
+---
+
+### 📊 Customer Churn Analysis *(Currently Working)*
+
+> 🚧 This project is currently under development.
+
+Analyzing customer churn patterns using Python, SQL, and data analytics techniques to identify factors affecting customer retention and business growth.
+
+**Technologies:** Python, Pandas, SQL, Data Visualization
+
+**Status:** In Progress
+
+**Expected Features:**
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis
+* Churn Prediction Insights
+* Interactive Visualizations
+* Business Recommendations
+
+```text
+Status: ███████░░░ 70% Complete
+```
+
+Coming Soon 🚀
+
+
 
 ---
 
