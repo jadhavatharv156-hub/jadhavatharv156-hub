@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Atharv Jadhav</h1>
-<h3 align="center">B.Sc Computer Science Graduate |SQL Developer |Database Developer | Aspiring Data Analyst | Python & MySQL Enthusiast</h3>
+<h1 align="center">🚀 Atharv Jadhav</h1>
+
+<h3 align="center">
+Data Analyst Aspirant • Python Developer • SQL Enthusiast
+</h3>
+
+<p align="center">
+Turning Data Into Insights 📊 | Learning Every Day 🚀
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Python+Developer;MySQL+Learner;Power+BI+Explorer;Always+Learning+New+Things" />
@@ -73,6 +80,7 @@ I am an aspiring Data Analyst who enjoys working with data, solving problems, an
 - Generated insights to identify churn patterns.
 
 ### 💰 BudgetIQ Expense Tracker
+https://github.com/jadhavatharv156-hub/BudgetIQ.git
 - Developed using Flask and Python.
 - Tracks daily expenses and budgets.
 - Provides financial insights and reports.
