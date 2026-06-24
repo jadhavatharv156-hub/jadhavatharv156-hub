@@ -64,23 +64,18 @@ I am an aspiring Data Analyst who enjoys working with data, solving problems, an
 
 ---
 
-## 💼 Projects
+<p align="center">
 
-### 📊 Customer Churn Analysis
-- Analyzed customer churn data using Python and SQL.
-- Performed data cleaning and exploratory data analysis.
-- Generated insights to identify churn patterns.
+<a href="https://github.com/jadhavatharv156-hub/BudgetIQ">
+  <img src="https://img.shields.io/badge/Open-BudgetIQ-181717?style=for-the-badge&logo=github">
+</a>
 
-### 💰 BudgetIQ Expense Tracker
-- Developed using Flask and Python.
-- Tracks daily expenses and budgets.
-- Provides financial insights and reports.
+<a href="https://github.com/jadhavatharv156-hub/Mysql-projects-and-assignments">
+  <img src="https://img.shields.io/badge/Open-MySQL_Projects-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
 
-### 📈 Data Analytics Projects
-- SQL Query Analysis
-- Sales Dashboard
-- Data Cleaning Projects
-- Business Insights Reports
+</p>
+
 
 ---
 
