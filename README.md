@@ -1,191 +1,145 @@
-<!-- ================= HEADER ================= -->
-
 <h1 align="center">Hi 👋, I'm Atharv Jadhav</h1>
-
-<h3 align="center">
-🎓 B.Sc Computer Science Graduate | 📊 Aspiring Data Analyst | 🐍 Python & MySQL Enthusiast
-</h3>
+<h3 align="center">B.Sc Computer Science Graduate | Aspiring Data Analyst | Python & MySQL Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+Developer;SQL+Enthusiast;Data+Analytics+Learner;Always+Learning+Something+New" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/atharv-jadhav-9a4989280/">
-    <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Jadhav-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="mailto:jadhavathar156@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Python+Developer;MySQL+Learner;Power+BI+Explorer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 Recent B.Sc Computer Science Graduate
 
-📊 Interested in Data Analytics, Databases, and Business Intelligence
+📊 Passionate about Data Analytics, Databases, and Business Insights
 
-🐍 Python and MySQL Enthusiast
+🐍 Learning and building projects using Python and MySQL
 
-📈 Learning Data Analysis and Visualization
+📈 Interested in Data Visualization and Analytical Problem Solving
 
-💡 Passionate about solving problems using data
+💡 Exploring Data Science and Real-world Data Projects
 
-🌱 Currently improving SQL, Python, Power BI, and Analytics skills
+🌱 Currently improving my skills in SQL, Python, Power BI, and Data Analytics
 
 📍 Maharashtra, India
 
 ---
 
-# 🚀 Career Objective
+## 🎯 Career Objective
 
-I aim to become a Data Analyst and build data-driven solutions that help businesses make better decisions. I continuously learn new technologies and enjoy working with real-world datasets.
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+I am an aspiring Data Analyst who enjoys working with data, solving problems, and extracting meaningful insights. My goal is to build impactful data-driven solutions and continuously improve my technical and analytical skills.
 
 ---
 
-# 📚 Currently Learning
+## 🚀 Tech Stack
 
-✅ Advanced SQL
+### 👨‍💻 Programming Languages
 
-✅ Data Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
 
-✅ Power BI
+### 🗄️ Database Skills
 
-✅ Python for Data Analysis
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-✅ Pandas & NumPy
+### 🛠️ Tools & Technologies
 
-✅ Dashboard Development
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 📚 Currently Learning
+
+- Advanced SQL Queries
+- Data Analytics
+- Power BI Dashboards
+- Python for Data Analysis
+- Pandas & NumPy
+- Data Visualization
+
+---
+
+## 💼 Projects
 
 ### 📊 Customer Churn Analysis
-
-- Python
-- SQL
-- Data Cleaning
-- EDA
-
-🔗 https://github.com/YOUR_GITHUB_USERNAME/customer-churn-analysis
-
----
+- Analyzed customer churn data using Python and SQL.
+- Performed data cleaning and exploratory data analysis.
+- Generated insights to identify churn patterns.
 
 ### 💰 BudgetIQ Expense Tracker
+- Developed using Flask and Python.
+- Tracks daily expenses and budgets.
+- Provides financial insights and reports.
 
-- Flask
-- Python
-- SQLite
-
-🔗 [https://github.com/YOUR_GITHUB_USERNAME/BudgetIQ](https://github.com/jadhavatharv156-hub/BudgetIQ.git)
-
----
-
-### 📈 SQL Practice Repository
-
-- Joins
-- Subqueries
-- Window Functions
-
-🔗 [https://github.com/YOUR_GITHUB_USERNAME/sql-practice](https://github.com/jadhavatharv156-hub/Mysql-projects-and-assignments.git)
+### 📈 Data Analytics Projects
+- SQL Query Analysis
+- Sales Dashboard
+- Data Cleaning Projects
+- Business Insights Reports
 
 ---
 
-# 📅 My Learning Journey
+## 📅 My Learning Journey
 
-✅ Started with Computer Science fundamentals
+✅ Started with Computer Science Fundamentals
 
-✅ Learned Python and SQL
+✅ Learned C, Python, HTML, CSS, and JavaScript
 
-✅ Built mini projects
+✅ Developed interest in Databases and SQL
 
-✅ Explored Data Analytics
+✅ Explored Data Analytics and Visualization
 
-✅ Working on real-world projects
+✅ Building real-world projects and improving daily
 
-🚀 Goal: Become a professional Data Analyst.
-
----
-
-# 🎯 Daily Goals
-
-📖 Learn every day
-
-💻 Practice SQL
-
-🐍 Improve Python skills
-
-📊 Build projects
-
-🚀 Contribute to GitHub
+🚀 Goal: Become a Data Analyst and contribute to data-driven organizations.
 
 ---
 
-# 📈 GitHub Stats
+## 🌟 Daily Goals
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+📖 Learn something new every day
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+💻 Practice SQL and Python regularly
+
+📊 Build data projects
+
+🧠 Improve problem-solving skills
+
+🚀 Contribute to open source projects
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/atharv-jadhav-9a4989280/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jadhavathar156@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 🏆 Top Languages
+## 💬 Quote
+
+> "Data tells a story. I aim to discover it, analyze it, and create value from it."
+
+---
+
+## 🙏 Thank You for Visiting
+
+⭐ If you like my work, don't forget to star my repositories.
+
+🚀 Let's learn, build, and grow together.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight">
-</p>
-
----
-
-# 🌟 Quote
-
-> "Data tells a story. I want to discover it and create value from it."
-
----
-
-# 📫 Connect With Me
-
-📧 jadhavathar156@gmail.com
-
-💼 LinkedIn:
-https://www.linkedin.com/in/atharv-jadhav-9a4989280/
-
----
-
-# 🙏 Thank You For Visiting
-
-⭐ If you like my projects, please give them a star.
-
-🚀 Let's Learn, Build, and Grow Together.
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
