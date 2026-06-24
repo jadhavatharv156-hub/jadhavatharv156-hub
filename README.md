@@ -64,17 +64,19 @@ I am an aspiring Data Analyst who enjoys working with data, solving problems, an
 
 ---
 
-<p align="center">
+## 🚀 Featured Projects
+
+<div align="center">
 
 <a href="https://github.com/jadhavatharv156-hub/BudgetIQ">
-  <img src="https://img.shields.io/badge/Open-BudgetIQ-181717?style=for-the-badge&logo=github">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadhavatharv156-hub&repo=BudgetIQ&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/jadhavatharv156-hub/Mysql-projects-and-assignments">
-  <img src="https://img.shields.io/badge/Open-MySQL_Projects-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadhavatharv156-hub&repo=Mysql-projects-and-assignments&theme=tokyonight" />
 </a>
 
-</p>
+</div>
 
 
 ---
