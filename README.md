@@ -41,7 +41,6 @@
 
 ---
 
-```markdown
 ## 👨‍💻 About Me
 
 Passionate about transforming data into meaningful insights and building efficient database solutions.
@@ -61,10 +60,10 @@ As a B.Sc Computer Science graduate, I specialize in **Data Analytics, SQL, Data
 ```
 
 ---
-
 ## 🎯 Career Objective
 
-I am an aspiring Data Analyst who enjoys working with data, solving problems, and extracting meaningful insights. My goal is to build impactful data-driven solutions and continuously improve my technical and analytical skills.
+Seeking an opportunity to apply my skills in Data Analytics, Database Management, and Python development to solve real-world business problems, create valuable insights from data, and continuously grow as a data professional.
+```
 
 ---
 
