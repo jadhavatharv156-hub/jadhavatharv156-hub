@@ -2,7 +2,10 @@
 
 # 🚀 ATHARV JADHAV
 
-### ⚡ Data Analytics • 🗄️ Database Engineering • 🐍 Python Development
+### 📊 Data Analytics • 🗄️ Database Engineering • 🐍 Python Development
+
+#### Transforming Complex Data into Actionable Insights
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=📊+Transforming+Complex+Data+into+Insights;🗄️+Building+Scalable+Database+Solutions;🐍+Python+Developer+%7C+SQL+Specialist;🚀+Aspiring+Data+Analyst;💡+Continuous+Learner" />
 
