@@ -1,6 +1,7 @@
 <div align="center">
 
-# HI I AM ⚡ ATHARV JADHAV
+# Hi I am 
+### ⚡ Atharv Jadhav
 
 ### Data Analytics • SQL • Python • Database Engineering
 
