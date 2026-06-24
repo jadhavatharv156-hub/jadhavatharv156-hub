@@ -1,35 +1,27 @@
 <div align="center">
 
-# 🚀 ATHARV JADHAV
+# HI I AM ⚡ ATHARV JADHAV
 
-### 📊 Data Analytics • 🗄️ Database Engineering • 🐍 Python Development
+### Data Analytics • SQL • Python • Database Engineering
 
-#### Transforming Complex Data into Actionable Insights
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Data+Analytics+Enthusiast;Python+Developer;SQL+Specialist;Building+Data-Driven+Solutions;Continuous+Learner" />
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=📊+Transforming+Complex+Data+into+Insights;🗄️+Building+Scalable+Database+Solutions;🐍+Python+Developer+%7C+SQL+Specialist;🚀+Aspiring+Data+Analyst;💡+Continuous+Learner" />
-
-<br>
-
-<p align="center">
+### Transforming Complex Data into Actionable Insights
 
 <a href="https://www.linkedin.com/in/atharv-jadhav-9a4989280/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:jadhavathar156@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/jadhavatharv156-hub">
-<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-success?style=for-the-badge">
-</a>
+</div>
 
-</p>
 
 ---
 
