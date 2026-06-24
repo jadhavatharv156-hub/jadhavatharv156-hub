@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hi I am
 ## ⚡ Atharv Jadhav
 
 ### Data Analytics • SQL • Python • Database Engineering
